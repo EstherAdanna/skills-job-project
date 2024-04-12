@@ -1,4 +1,4 @@
--- What are the top paying jobs for my role Data Analyst
+-- What are the top paying jobs for Data Analyst job role
 SELECT job_id,
 job_title,
 salary_year_avg,
